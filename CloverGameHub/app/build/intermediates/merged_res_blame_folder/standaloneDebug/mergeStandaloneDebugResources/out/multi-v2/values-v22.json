@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "dev.clover.gamehub.app-mergeStandaloneDebugResources-65:/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "/home/ubuntu/.gradle/caches/transforms-4/e39857dfaf9af9ee03dc9c60cb42952f/transformed/appcompat-1.6.1/res/values-v22/values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,487",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,482,764"
+                    }
+                }
+            ]
+        }
+    ]
+}

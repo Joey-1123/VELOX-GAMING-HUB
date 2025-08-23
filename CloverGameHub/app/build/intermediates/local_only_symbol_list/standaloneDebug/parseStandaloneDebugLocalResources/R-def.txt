@@ -1,0 +1,10 @@
+R_DEF: Internal format may change without notice
+local
+color md_theme_dark_primary
+color md_theme_light_primary
+drawable gradient_wall_1
+drawable gradient_wall_2
+drawable gradient_wall_3
+drawable ic_launcher_foreground
+mipmap ic_launcher
+style Theme.CloverGameHub
