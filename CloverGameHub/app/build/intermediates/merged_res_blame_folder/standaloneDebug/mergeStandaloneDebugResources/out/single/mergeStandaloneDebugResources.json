@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "dev.clover.gamehub.app-standaloneDebug-67:/drawable_gradient_wall_2.xml.flat",
+        "source": "dev.clover.gamehub.app-main-69:/drawable/gradient_wall_2.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.7/dev.clover.gamehub.app-standaloneDebug-67:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.7/dev.clover.gamehub.app-main-69:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.7/dev.clover.gamehub.app-standaloneDebug-67:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.7/dev.clover.gamehub.app-main-69:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "dev.clover.gamehub.app-standaloneDebug-67:/drawable_gradient_wall_3.xml.flat",
+        "source": "dev.clover.gamehub.app-main-69:/drawable/gradient_wall_3.xml"
+    },
+    {
+        "merged": "dev.clover.gamehub.app-standaloneDebug-67:/drawable_gradient_wall_1.xml.flat",
+        "source": "dev.clover.gamehub.app-main-69:/drawable/gradient_wall_1.xml"
+    }
+]

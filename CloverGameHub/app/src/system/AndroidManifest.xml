@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+	<uses-permission android:name="android.permission.STATUS_BAR_SERVICE" />
+	<uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS" />
+	<uses-permission android:name="android.permission.MODIFY_PHONE_STATE" />
+	<uses-permission android:name="android.permission.PACKAGE_USAGE_STATS" />
+	<uses-permission android:name="android.permission.DUMP" />
+	<uses-permission android:name="android.permission.OVERRIDE_WIFI_CONFIG" />
+	<uses-permission android:name="android.permission.OBSERVE_GRANT_REVOKE_PERMISSIONS" />
+	<uses-permission android:name="android.permission.CONTROL_DISPLAY_BRIGHTNESS" />
+	<uses-permission android:name="android.permission.WRITE_SETTINGS" />
+	<uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+	<uses-permission android:name="android.permission.FOREGROUND_SERVICE_SPECIAL_USE" />
+
+	<application>
+		<uses-library android:name="com.android.location.provider" android:required="false" />
+	</application>
+</manifest>
